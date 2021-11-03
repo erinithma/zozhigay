@@ -237,6 +237,7 @@ hr {
 
 .item__button:hover{
     background-color: #Fe101b;
+    color: white;
 }
 
 .item--text .item__img {
