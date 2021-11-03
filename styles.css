@@ -138,6 +138,14 @@ hr {
     justify-content: center;
 }
 
+.social a:hover {
+    background: #E3000B;
+}
+
+.social a:hover path {
+    fill: white;
+}
+
 .big-button {
     font-family: Montserrat;
     text-align: center;
